@@ -3,8 +3,7 @@ OFCCoin Core integration/staging tree
 
 http://www.OFCCoin.org
 
-Copyright (c) 2009-2015 OFCCoin Core Developers
-Copyright (c) 2016 OFCCoin Core Developers
+Copyright (c)  OFCCoin Core Developers
 
 What is OFCCoin?
 ----------------
@@ -61,7 +60,7 @@ submit new unit tests for old code. Unit tests can be compiled and run (assuming
 
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
-used for manual QA testing �?a link to them will appear in a comment on the
+used for manual QA testing â€?a link to them will appear in a comment on the
 pull request posted by [OFCCoinPullTester](https://github.com/OFCCoinPullTester). See https://github.com/TheBlueMatt/test-scripts
 for the build/test scripts.
 
