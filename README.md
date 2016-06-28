@@ -1,7 +1,7 @@
 OFCCoin Core integration/staging tree
 =====================================
 
-http://www.OFCCoin.org
+http://www.oneforcoin.com
 
 Copyright (c)  OFCCoin Core Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. OFCCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the OFCCoin Core software, see http://www.OFCCoin.org/en/download.
+the OFCCoin Core software, see http://www.oneforcoin.com/index.php/Index/download.html.
 
 License
 -------
